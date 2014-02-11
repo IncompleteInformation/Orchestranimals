@@ -1,0 +1,14 @@
+HALL,Bach Air,5th,HARD,Lucky,always,Falco,MADONNA,Paranoid,Skrillex
+PizzicatoStrings,Harpsichord,PizzicatoStrings,AcousticGrandPiano,AcousticGrandPiano,ElectricPiano2,AcousticGrandPiano,AcousticGrandPiano,AcousticGrandPiano,AcousticGrandPiano
+Timpani,,Timpani,AcousticGuitarNylon,ElectricPiano2,DrawbarOrgan,Clavi,Celesta,AcousticGuitarSteel,FretlessBass
+StringEnsemble1,StringEnsemble1,StringEnsemble1,AcousticGuitarSteel,Clavi,FretlessBass,StringEnsemble1,DrawbarOrgan,ElectricGuitarJazz,VoiceOohs
+Trumpet,,Trumpet,FretlessBass,ElectricGuitarClean,SynthBass1,PanFlute,ElectricGuitarClean,OverdrivenGuitar,SynthBrass1
+Trombone,,Trombone,,ElectricBassFinger,SynthStrings1,Lead2SawTooth,SynthBass1,DistortionGuitar,Lead1Square
+Tuba,,Tuba,,FretlessBass,SynthVoice,,VoiceOohs,GuitarHarmonics,Lead2SawTooth
+FrenchHorn,,FrenchHorn,,AltoSax,Lead6Voice,,SopranoSax,ElectricBassFinger,Pad2Warm
+Oboe,,Oboe,,,Lead8BassLead,,,FretlessBass,
+Bassoon,,Bassoon,,,FX5Brightness,,,ChoirAahs,
+Clarinet,,Clarinet,,,Kalimba,,,Lead6Voice,
+Piccolo,,Piccolo,,,,,,TinkleBell,
+Flute,,Flute,,,,,,Woodblock,
+,,,,,,,,GuitarFretNoise,
